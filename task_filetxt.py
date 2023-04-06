@@ -39,4 +39,3 @@ with open("some_file.txt", 'w+') as file:
 
 
 
-
